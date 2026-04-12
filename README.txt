@@ -52,10 +52,7 @@ Dashboard Features
 
 ---
 
-Dashboard Preview
-
-(Add screenshot here)
-
+Dashboard (I have uploded a screenshot in the file)
 ---
 
 Conclusion
