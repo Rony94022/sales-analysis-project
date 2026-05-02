@@ -54,7 +54,7 @@ Dashboard Features
 
 Dashboard Preview
 
-(Add screenshot here)
+![Sales Dashboard](https://github.com/Rony94022/sales-analysis-project/blob/main/Dashboard.png?raw=true)
 
 \---
 
